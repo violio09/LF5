@@ -8,7 +8,7 @@ namespace CL_Vererbung
 {
     public class Lehrer:Person
     {
-		private string fach;
+		public string fach;
 
 		public string Fach
 		{
@@ -22,9 +22,24 @@ namespace CL_Vererbung
             Fach = fach;
         }
 
+
+
         public override string Vorstellen()
         {
             return base.Vorstellen() + $" Ich unterrichte das Fach {fach}";
+        }
+
+        public void NoteVergeben(Schüler schüler)
+        {
+            Random r = new Random();
+            schüler.Note = r.Next(1,7);
+
+            
+        }
+
+        public string Unterrichten()
+        {
+            return $"Ich unterrichte das Fach {fach}, welches dafür gedacht is die Programmierung in der C# Sprache zu lernen";
         }
 
     }
