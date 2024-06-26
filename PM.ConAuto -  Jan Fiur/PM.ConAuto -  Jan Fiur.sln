@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConAuto -  Jan Fiur", "ConAuto -  Jan Fiur\ConAuto -  Jan Fiur.csproj", "{953DD964-35AD-475C-BA73-43D99DA3F74E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CL_Auto", "CL_Auto - Jan Fiur\CL_Auto.csproj", "{53D5037E-7A98-47AE-AFED-508B1983300B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{953DD964-35AD-475C-BA73-43D99DA3F74E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953DD964-35AD-475C-BA73-43D99DA3F74E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953DD964-35AD-475C-BA73-43D99DA3F74E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953DD964-35AD-475C-BA73-43D99DA3F74E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D5037E-7A98-47AE-AFED-508B1983300B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D5037E-7A98-47AE-AFED-508B1983300B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D5037E-7A98-47AE-AFED-508B1983300B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D5037E-7A98-47AE-AFED-508B1983300B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC9D58E9-3729-40C9-B0D9-79B75682531F}
+	EndGlobalSection
+EndGlobal
