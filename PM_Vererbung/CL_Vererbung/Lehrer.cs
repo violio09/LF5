@@ -39,7 +39,7 @@ namespace CL_Vererbung
 
         public string Unterrichten()
         {
-            return $"Ich unterrichte das Fach {fach}, welches dafür gedacht is die Programmierung in der C# Sprache zu lernen";
+            return $"Das Fach {fach} ist sehr interesant, wo man die C# Sprache lernt";
         }
 
     }
