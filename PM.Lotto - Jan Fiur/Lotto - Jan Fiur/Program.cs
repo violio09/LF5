@@ -9,12 +9,20 @@ int falscheZahlen = 0;
 
 for (int i = 0; i < 6; i++)
 {
-    Console.WriteLine("Bitte geben sie ihre Tippzahl ein.");
+    try
+    {
+        Console.WriteLine("Bitte geben sie ihre Tippzahl ein.");
 
 
-    userZahlen.Add(Convert.ToInt32(Console.ReadLine()));
+        userZahlen.Add(Convert.ToInt32(Console.ReadLine()));
 
-    Console.Clear();
+        Console.Clear();
+    }
+    catch(Exception e) 
+    { 
+        Console.WriteLine(e); 
+        Environment.Exit(1);
+    }
 }
 
 List<int> calledList = ziehZahlen.GetList();
