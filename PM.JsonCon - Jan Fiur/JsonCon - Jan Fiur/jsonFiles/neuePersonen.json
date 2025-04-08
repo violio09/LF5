@@ -1,0 +1,21 @@
+{
+  "vorname": "Anna",
+  "nachname": "Meier",
+  "alter": 22,
+  "beruf": "Informatikerin"
+}
+{
+  "vorname": "Ben",
+  "nachname": "Schulz",
+  "alter": 26,
+  "beruf": "Elektroniker"
+}
+{
+  "vorname": "Clara",
+  "nachname": "Fischer",
+  "alter": 21,
+  "beruf": "Mechatronikerin"
+}
+{"vorname":"Anna","nachname":"Meier","alter":22,"beruf":"Informatikerin"}
+{"vorname":"Ben","nachname":"Schulz","alter":26,"beruf":"Elektroniker"}
+{"vorname":"Clara","nachname":"Fischer","alter":21,"beruf":"Mechatronikerin"}
