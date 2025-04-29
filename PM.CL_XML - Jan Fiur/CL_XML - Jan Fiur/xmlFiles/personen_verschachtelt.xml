@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <firstname>Anna</firstname>
+    <lastname>Meier</lastname>
+    <age>22</age>
+    <profession>Informatikerin</profession>
+    <address>
+      <street>Hauptstraße 12</street>
+      <zipcode>12345</zipcode>
+      <city>Kiel</city>
+    </address>
+    <hobbies>
+      <hobby>Lesen</hobby>
+      <hobby>Programmieren</hobby>
+      <hobby>Schwimmen</hobby>
+    </hobbies>
+  </person>
+  <person>
+    <firstname>Ben</firstname>
+    <lastname>Schulz</lastname>
+    <age>25</age>
+    <profession>Elektroniker</profession>
+    <address>
+      <street>Bergweg 7</street>
+      <zipcode>67890</zipcode>
+      <city>Lübeck</city>
+    </address>
+    <hobbies>
+      <hobby>Radfahren</hobby>
+      <hobby>Musik</hobby>
+      <hobby>Kochen</hobby>
+    </hobbies>
+  </person>
+</people>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<people>
+  <person>
+    <firstname>Anna</firstname>
+    <lastname>Meier</lastname>
+    <age>22</age>
+    <profession>Informatikerin</profession>
+  </person>
+  <person>
+    <firstname>Ben</firstname>
+    <lastname>Schulz</lastname>
+    <age>25</age>
+    <profession>Elektroniker</profession>
+  </person>
+</people>
