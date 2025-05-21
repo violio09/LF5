@@ -136,14 +136,5 @@ public class WerwolfSpiel
         }
 
         Console.WriteLine("Alle Rollen wurden vergeben. Das Spiel kann beginnen!");
-
-        // Optionale Ausgabe aller Rollen (nur für Testzwecke, im echten Spiel entfernen)
-        /*
-        Console.WriteLine("\n--- Rollenübersicht (Admin/Debug) ---");
-        for (int i = 0; i < anzahlSpieler; i++)
-        {
-            Console.WriteLine($"Spieler {i + 1}: {spielerRollen[i]}");
-        }
-        */
     }
 }
